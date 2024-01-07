@@ -1,4 +1,4 @@
-# House-sales-prediction
+# House-Price-prediction
 
 Overview
 This repository contains a series of Python scripts for predicting house sales data. The project involves data preprocessing, exploratory data analysis (EDA), and the implementation of a Linear Regression model for predicting house prices.
